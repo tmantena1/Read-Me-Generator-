@@ -34,13 +34,23 @@ const questions = [
     },
     {
         type:"input",
+        name: "contriName",
+        message: "Enter contributors"
+    },
+    {
+        type:"input",
+        name: "testsName",
+        message: "Enter test instructions"
+    },
+    {
+        type:"input",
         name: "gitName",
-        message: "What is your github username?"
+        message: "Enter Githunb username"
     },
     {
         type:"input",
         name: "emailName",
-        message: "What is your email address?"
+        message: "Enter email address"
     }
 ];
 
