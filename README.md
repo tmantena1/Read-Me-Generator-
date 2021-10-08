@@ -1,6 +1,6 @@
 ![GitHub license](https://img.shields.io/badge/license-None-Black.svg)
   
-  # undefined
+  # README Generator
 
   ## Description
    The purpose of this assignment is to create a ReadMe Generator which runs from the command line via the user input and iquirer package. 
