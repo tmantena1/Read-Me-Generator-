@@ -15,10 +15,13 @@
   7. [Questions](#questions)
 
   ## Installation
-    Prior to using this application, Node.js must be installed. After Node.js installation ensure that the inquirer package is available to the application by running "npm inquirer" in the integrated terminal. 
+  Prior to using this application, Node.js must be installed. After Node.js installation ensure that the inquirer package is available to the application by running "npm inquirer" in the integrated terminal. 
 
   ## Usage
   Enter "node index.js" into the integrated terminal to start the application. Answer the prompts and the application will create a markdown file called generatedREADME. Rename this file to whatever you choose.
+
+  ## Video Guide
+  <a href="https://watch.screencastify.com/v/DDMiFQoi8zqkiPxV89Ei">Video Tutorial</a>
 
   ## License
   This application is licensed under the None license.
